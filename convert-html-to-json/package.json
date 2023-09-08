@@ -1,0 +1,14 @@
+{
+  "name": "convert-html-to-json",
+  "version": "1.0.0",
+  "description": "convert from HTML to JSON object",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "doriandevguru",
+  "license": "ISC",
+  "devDependencies": {},
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12"
+  }
+}
